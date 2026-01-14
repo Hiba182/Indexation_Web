@@ -1,0 +1,377 @@
+{
+  "chocolate": {
+    "tokens": [
+      "chocolate"
+    ],
+    "augmented": [
+      "chocolate"
+    ],
+    "or_count": 21,
+    "and_count": 21,
+    "top_results": [
+      {
+        "url": "https://web-scraping.dev/product/1?variant=cherry-large",
+        "bm25": 3.109659974976585,
+        "exact": 0,
+        "linear": 5.67
+      },
+      {
+        "url": "https://web-scraping.dev/product/25?variant=orange-small",
+        "bm25": 3.0862006792726544,
+        "exact": 0,
+        "linear": 5.67
+      },
+      {
+        "url": "https://web-scraping.dev/product/13?variant=orange-small",
+        "bm25": 3.0862006792726544,
+        "exact": 0,
+        "linear": 5.67
+      },
+      {
+        "url": "https://web-scraping.dev/product/1?variant=cherry-medium",
+        "bm25": 3.0862006792726544,
+        "exact": 0,
+        "linear": 5.67
+      },
+      {
+        "url": "https://web-scraping.dev/product/13?variant=cherry-small",
+        "bm25": 3.0862006792726544,
+        "exact": 0,
+        "linear": 5.643333333333333
+      }
+    ]
+  },
+  "leather sneakers": {
+    "tokens": [
+      "leather",
+      "sneakers"
+    ],
+    "augmented": [
+      "leather",
+      "sneakers"
+    ],
+    "or_count": 24,
+    "and_count": 14,
+    "top_results": [
+      {
+        "url": "https://web-scraping.dev/product/23?variant=black40",
+        "bm25": 7.104756576373026,
+        "exact": 1,
+        "linear": 12.965
+      },
+      {
+        "url": "https://web-scraping.dev/product/11",
+        "bm25": 7.104756576373026,
+        "exact": 1,
+        "linear": 12.9275
+      },
+      {
+        "url": "https://web-scraping.dev/product/23",
+        "bm25": 7.104756576373026,
+        "exact": 1,
+        "linear": 12.9275
+      },
+      {
+        "url": "https://web-scraping.dev/product/11?variant=white42",
+        "bm25": 6.976475642068081,
+        "exact": 1,
+        "linear": 12.165000000000001
+      },
+      {
+        "url": "https://web-scraping.dev/product/23?variant=white42",
+        "bm25": 6.976475642068081,
+        "exact": 1,
+        "linear": 12.15
+      }
+    ]
+  },
+  "cat beanie": {
+    "tokens": [
+      "cat",
+      "beanie"
+    ],
+    "augmented": [
+      "cat",
+      "beanie"
+    ],
+    "or_count": 18,
+    "and_count": 18,
+    "top_results": [
+      {
+        "url": "https://web-scraping.dev/product/12?variant=darkgrey-small",
+        "bm25": 7.144985247712916,
+        "exact": 0,
+        "linear": 10.92
+      },
+      {
+        "url": "https://web-scraping.dev/product/12",
+        "bm25": 7.144985247712916,
+        "exact": 0,
+        "linear": 10.92
+      },
+      {
+        "url": "https://web-scraping.dev/product/24?variant=grey-small",
+        "bm25": 7.144985247712916,
+        "exact": 0,
+        "linear": 10.92
+      },
+      {
+        "url": "https://web-scraping.dev/product/24?variant=darkgrey-medium",
+        "bm25": 7.144985247712916,
+        "exact": 0,
+        "linear": 10.92
+      },
+      {
+        "url": "https://web-scraping.dev/product/12?variant=sand-small",
+        "bm25": 7.144985247712916,
+        "exact": 0,
+        "linear": 10.903333333333332
+      }
+    ]
+  },
+  "chocolate candy": {
+    "tokens": [
+      "chocolate",
+      "candy"
+    ],
+    "augmented": [
+      "candy",
+      "chocolate"
+    ],
+    "or_count": 21,
+    "and_count": 21,
+    "top_results": [
+      {
+        "url": "https://web-scraping.dev/product/1?variant=cherry-large",
+        "bm25": 6.21931994995317,
+        "exact": 0,
+        "linear": 8.27
+      },
+      {
+        "url": "https://web-scraping.dev/product/25?variant=orange-small",
+        "bm25": 6.172401358545309,
+        "exact": 0,
+        "linear": 8.27
+      },
+      {
+        "url": "https://web-scraping.dev/product/13?variant=orange-small",
+        "bm25": 6.172401358545309,
+        "exact": 0,
+        "linear": 8.27
+      },
+      {
+        "url": "https://web-scraping.dev/product/1?variant=cherry-medium",
+        "bm25": 6.172401358545309,
+        "exact": 0,
+        "linear": 8.27
+      },
+      {
+        "url": "https://web-scraping.dev/product/13?variant=cherry-small",
+        "bm25": 6.172401358545309,
+        "exact": 0,
+        "linear": 8.243333333333332
+      }
+    ]
+  },
+  "light up sneakers": {
+    "tokens": [
+      "light",
+      "sneakers"
+    ],
+    "augmented": [
+      "sneakers",
+      "light"
+    ],
+    "or_count": 24,
+    "and_count": 0,
+    "top_results": [
+      {
+        "url": "https://web-scraping.dev/product/23?variant=black40",
+        "bm25": 3.215065767382087,
+        "exact": 0,
+        "linear": 6.2666666666666675
+      },
+      {
+        "url": "https://web-scraping.dev/product/11",
+        "bm25": 3.215065767382087,
+        "exact": 0,
+        "linear": 6.244166666666667
+      },
+      {
+        "url": "https://web-scraping.dev/product/23",
+        "bm25": 3.215065767382087,
+        "exact": 0,
+        "linear": 6.244166666666667
+      },
+      {
+        "url": "https://web-scraping.dev/product/11?variant=white42",
+        "bm25": 2.9638446494742676,
+        "exact": 0,
+        "linear": 5.466666666666667
+      },
+      {
+        "url": "https://web-scraping.dev/product/11?variant=black42",
+        "bm25": 2.8511985268168845,
+        "exact": 0,
+        "linear": 5.466666666666667
+      }
+    ]
+  },
+  "america": {
+    "tokens": [
+      "america"
+    ],
+    "augmented": [
+      "america",
+      "usa"
+    ],
+    "or_count": 0,
+    "and_count": 0,
+    "top_results": []
+  },
+  "france": {
+    "tokens": [
+      "france"
+    ],
+    "augmented": [
+      "fr",
+      "france"
+    ],
+    "or_count": 0,
+    "and_count": 0,
+    "top_results": []
+  },
+  "ChocoDelight": {
+    "tokens": [
+      "chocodelight"
+    ],
+    "augmented": [
+      "chocodelight"
+    ],
+    "or_count": 0,
+    "and_count": 0,
+    "top_results": []
+  },
+  "TimelessFootwear": {
+    "tokens": [
+      "timelessfootwear"
+    ],
+    "augmented": [
+      "timelessfootwear"
+    ],
+    "or_count": 0,
+    "and_count": 0,
+    "top_results": []
+  },
+  "italian leather": {
+    "tokens": [
+      "italian",
+      "leather"
+    ],
+    "augmented": [
+      "leather",
+      "italian"
+    ],
+    "or_count": 14,
+    "and_count": 0,
+    "top_results": [
+      {
+        "url": "https://web-scraping.dev/product/11?variant=white42",
+        "bm25": 4.012630992593813,
+        "exact": 0,
+        "linear": 5.565
+      },
+      {
+        "url": "https://web-scraping.dev/product/23?variant=black40",
+        "bm25": 3.889690808990939,
+        "exact": 0,
+        "linear": 5.565
+      },
+      {
+        "url": "https://web-scraping.dev/product/23?variant=white42",
+        "bm25": 4.012630992593813,
+        "exact": 0,
+        "linear": 5.550000000000001
+      },
+      {
+        "url": "https://web-scraping.dev/product/23?variant=white41",
+        "bm25": 4.012630992593813,
+        "exact": 0,
+        "linear": 5.5172727272727276
+      },
+      {
+        "url": "https://web-scraping.dev/product/23?variant=white40",
+        "bm25": 4.012630992593813,
+        "exact": 0,
+        "linear": 5.515000000000001
+      }
+    ]
+  },
+  "usa chocolate": {
+    "tokens": [
+      "usa",
+      "chocolate"
+    ],
+    "augmented": [
+      "chocolate",
+      "united states",
+      "usa",
+      "america",
+      "united states of america"
+    ],
+    "or_count": 21,
+    "and_count": 0,
+    "top_results": [
+      {
+        "url": "https://web-scraping.dev/product/25?variant=orange-small",
+        "bm25": 3.0862006792726544,
+        "exact": 0,
+        "linear": 8.47
+      },
+      {
+        "url": "https://web-scraping.dev/product/13?variant=orange-large",
+        "bm25": 3.0862006792726544,
+        "exact": 0,
+        "linear": 8.443333333333333
+      },
+      {
+        "url": "https://web-scraping.dev/product/1?variant=cherry-large",
+        "bm25": 3.109659974976585,
+        "exact": 0,
+        "linear": 5.67
+      },
+      {
+        "url": "https://web-scraping.dev/product/13?variant=orange-small",
+        "bm25": 3.0862006792726544,
+        "exact": 0,
+        "linear": 5.67
+      },
+      {
+        "url": "https://web-scraping.dev/product/1?variant=cherry-medium",
+        "bm25": 3.0862006792726544,
+        "exact": 0,
+        "linear": 5.67
+      }
+    ]
+  },
+  "nonexistent product": {
+    "tokens": [
+      "nonexistent",
+      "product"
+    ],
+    "augmented": [
+      "nonexistent",
+      "product"
+    ],
+    "or_count": 0,
+    "and_count": 0,
+    "top_results": []
+  },
+  "": {
+    "tokens": [],
+    "augmented": [],
+    "or_count": 0,
+    "and_count": 0,
+    "top_results": []
+  }
+}
